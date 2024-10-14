@@ -1,0 +1,18 @@
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\bin\Debug\net8.0-windows\Card Identifier.exe
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\bin\Debug\net8.0-windows\Card Identifier.deps.json
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\bin\Debug\net8.0-windows\Card Identifier.runtimeconfig.json
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\bin\Debug\net8.0-windows\Card Identifier.dll
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\bin\Debug\net8.0-windows\Card Identifier.pdb
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card_Identifier.Form1.resources
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card_Identifier.Properties.Resources.resources
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card Identifier.csproj.GenerateResource.cache
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card Identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card Identifier.AssemblyInfoInputs.cache
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card Identifier.AssemblyInfo.cs
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card Identifier.csproj.CoreCompileInputs.cache
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card Identifier.sourcelink.json
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card Identifier.dll
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\refint\Card Identifier.dll
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card Identifier.pdb
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\Card Identifier.genruntimeconfig.cache
+C:\Users\88697\OneDrive\桌面\113_1_C_Sharp\HW\Card Identifier\Card Identifier\obj\Debug\net8.0-windows\ref\Card Identifier.dll
