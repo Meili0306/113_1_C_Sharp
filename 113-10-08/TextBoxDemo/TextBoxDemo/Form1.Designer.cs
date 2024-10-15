@@ -70,7 +70,7 @@
             // btnconfirm
             // 
             btnconfirm.Font = new Font("Microsoft JhengHei UI", 15F);
-            btnconfirm.Location = new Point(323, 384);
+            btnconfirm.Location = new Point(201, 372);
             btnconfirm.Name = "btnconfirm";
             btnconfirm.Size = new Size(152, 54);
             btnconfirm.TabIndex = 3;
@@ -85,6 +85,7 @@
             txtFirstName.Name = "txtFirstName";
             txtFirstName.Size = new Size(287, 50);
             txtFirstName.TabIndex = 4;
+            txtFirstName.TextChanged += txtFirstName_TextChanged;
             // 
             // txtLastName
             // 
@@ -107,7 +108,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(624, 450);
             Controls.Add(lblshow);
             Controls.Add(txtLastName);
             Controls.Add(txtFirstName);
