@@ -27,33 +27,36 @@ namespace Test_Score_Average
                 test1 = double.Parse(test1TextBox.Text);
                 test2 = double.Parse(test2TextBox.Text);
                 test3 = double.Parse(test3TextBox.Text);
+                if ((test1 >= 0 && test1 <= 100) && (test2 >= 0 && test2 <= 100) && (test3 >= 0 && test3 <= 100))
+                {
+                    average = (test1 + test2 + test3) / 3.0;
+                    averageLabel.Text = average.ToString("n1");
 
-                average = (test1 + test2 + test3) / 3.0;
-                averageLabel.Text = average.ToString("n1");
+                    if (average >= 90)
+                    {
+                        grade = "A";
+                    }
+                    else if (average >= 80)
+                    {
+                        grade = "B";
+                    }
+                    else if (average >= 70)
+                    {
+                        grade = "C";
+                    }
+                    else if (average >= 60)
+                    {
+                        grade = "D";
+                    }
+                    else
+                    {
+                        grade = "F";
+                    }
 
-                if (average >= 90)
-                {
-                    grade = "A";
-                }
-                else if (average >= 80)
-                {
-                    grade = "B";
-                }
-                else if (average >= 70)
-                {
-                    grade = "C";
-                }
-                else if (average >= 60)
-                {
-                    grade = "D";
-                }
-                else
-                {
-                    grade= "F";
+                    MessageBox.Show("你的等級是:" + grade);
                 }
 
-                MessageBox.Show("你的等級是:" + grade);
-            }
+        
             catch(Exception ex) 
             {
                 MessageBox.Show(ex.Message);
